@@ -14,20 +14,24 @@ Machine Learning Engineer | Data Scientist
 
 ### Programming Languages
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <picture>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
       alt="Python" 
       title="Python" 
       width="36" 
       height="36" />
+    </picture>
   </a>
   
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <picture>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" 
     alt="Java" 
     title="Java" 
     width="36" 
     height="36" />
+  </picture>
 </a>
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
