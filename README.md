@@ -44,8 +44,36 @@ Machine Learning Engineer | Data Scientist
   </picture>
   </a>
   
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" 
+    alt="C++" 
+    title="C++" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+
+### Database
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+    
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
+    alt="PostgreSQL" 
+    title="PostgreSQL" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
 </p>
 
 ### Cloud
