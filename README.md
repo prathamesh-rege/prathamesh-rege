@@ -83,7 +83,8 @@ Machine Learning Engineer | Data Scientist
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" 
       alt="Amazon Web Services" 
       title="Amazon Web Services" 
-      width="36" height="36" />
+      width="36" 
+      height="36" />
   </picture>
   </a>
   
@@ -96,6 +97,7 @@ Machine Learning Engineer | Data Scientist
     height="36" />
   </picture>
   </a>
+</p>
   
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
   <picture>
