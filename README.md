@@ -241,7 +241,7 @@ Machine Learning Engineer | Data Scientist
     
 <a href="https://apple.com" target="_blank" rel="noreferrer">
   <picture>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" 
     alt="MacOS" 
     title="MacOS" 
     width="36" 
