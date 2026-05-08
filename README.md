@@ -130,7 +130,7 @@ Machine Learning Engineer | Data Scientist
 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <picture>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" 
     alt="Hugging Face" 
     title="Hugging Face" 
     width="36" 
@@ -140,7 +140,7 @@ Machine Learning Engineer | Data Scientist
   
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <picture>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" 
     alt="Django" 
     title="Django" 
     width="36" 
