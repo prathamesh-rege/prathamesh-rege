@@ -240,11 +240,54 @@ Machine Learning Engineer | Data Scientist
   </a>
     
 <a href="https://apple.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" 
+    alt="MacOS" 
+    title="MacOS" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+  
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" 
+    alt="Ubuntu" 
+    title="Ubuntu" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+  
+<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" 
+    alt="Fedora" 
+    title="Fedora" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+  
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" 
+    alt="Kubernetes" 
+    title="Kubernetes" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
+    alt="Docker" 
+    title="Docker" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
 </p>
 
 ### Socials
@@ -254,6 +297,7 @@ Machine Learning Engineer | Data Scientist
 src="https://img.shields.io/github/followers//prathamesh-rege?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/x?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
