@@ -79,7 +79,7 @@ Machine Learning Engineer | Data Scientist
 ### Cloud
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <picture>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" 
       alt="Amazon Web Services" 
       title="Amazon Web Services" 
       width="36" 
