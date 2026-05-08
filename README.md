@@ -5,7 +5,7 @@ Machine Learning Engineer | Data Scientist
 ------------------------------------------
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Here](http://https://sites.google.com/view/prathameshrege/home)
+* 🖥️  See my portfolio [Here](http://https://sites.google.com/view/prathameshrege/home)
 * ✉️  You can contact me at [prathamesh.rege7@gmail.com](mailto:prathamesh.rege7@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://app.com)
 * 🧠  I'm currently learning Generative AI, LLM, RAG
@@ -78,9 +78,36 @@ Machine Learning Engineer | Data Scientist
 
 ### Cloud
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" 
+      alt="Amazon Web Services" 
+      title="Amazon Web Services" 
+      width="36" height="36" />
+  </picture>
+  </a>
+  
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" 
+    alt="Google Cloud" 
+    title="Google Cloud" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+  
+<a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+  <picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" 
+    alt="Microsoft Azure" 
+    title="Microsoft Azure" 
+    width="36" 
+    height="36" />
+  </picture>
+  </a>
+
+### Machine Learning
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
