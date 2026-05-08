@@ -318,6 +318,7 @@ Machine Learning Engineer | Data Scientist
         title="Twitter" /> 
     </picture> 
   </a> 
+  
   <a href="https://www.threads.net/@threads" target="_blank" rel="noreferrer"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" s
