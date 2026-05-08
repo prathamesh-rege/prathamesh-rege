@@ -77,7 +77,6 @@ Machine Learning Engineer | Data Scientist
 </p>
 
 ### Cloud
-<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <picture>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" 
@@ -96,8 +95,7 @@ Machine Learning Engineer | Data Scientist
     width="36" 
     height="36" />
   </picture>
-  </a>
-</p>
+</a>
   
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
   <picture>
