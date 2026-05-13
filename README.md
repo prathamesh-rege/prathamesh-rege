@@ -347,7 +347,7 @@ Machine Learning Engineer | Data Scientist
     </picture> 
   </a>
   
-  <a href="https://www.linkedin.com/in//prathamesh-rege" target="_blank" rel="noreferrer"> 
+  <a href="https://https://www.linkedin.com/in/prathameshrege7" target="_blank" rel="noreferrer"> 
   <picture> 
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
