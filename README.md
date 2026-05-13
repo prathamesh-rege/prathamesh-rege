@@ -5,7 +5,7 @@ Machine Learning Engineer | Data Scientist
 ------------------------------------------
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio [Here](https://https://sites.google.com/view/prathameshrege/home)
+* 🖥️  See my portfolio [Here](https://sites.google.com/view/prathameshrege/home)
 * ✉️  You can contact me at [prathamesh.rege7@gmail.com](mailto:prathamesh.rege7@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://app.com)
 * 🧠  I'm currently learning Generative AI, LLM, RAG
